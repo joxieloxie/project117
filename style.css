@@ -1,0 +1,40 @@
+body
+{
+    background-color:#22b422;
+}
+
+h4
+{
+    width:auto; height:auto; float:left;
+}
+
+#save
+{
+    width:10%; height:auto; float:left;
+}
+
+h1 
+{
+    color:rgb(38, 0, 255);
+    background-color: cornsilk;
+}
+
+h4
+{
+    float:left;
+}
+
+#show_sketch
+{
+    float:right;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius:20px;
+    animation-name:example;
+    animation-duration: 4s;
+    margin-top: 50px;
+    animation-iteration-count: infinite;
+}
